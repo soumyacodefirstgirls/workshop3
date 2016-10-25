@@ -1,0 +1,7 @@
+.red_text {color = red};
+#blue_text {color=blue};
+
+title{color: yellow;}
+h1 {font: helvetica; font-size: 50px; background-color: yellow}
+p {color: green;}
+ol {color: teal;}
